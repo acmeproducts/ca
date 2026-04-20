@@ -1,6 +1,6 @@
 # Cellular Automata Evolution Simulator
 
-## [Full article](https://github.com/xcontcom/evolving-cellular-automata/blob/main/docs/article.md)
+## [Full article](https://xcontcom.github.io/evolving-cellular-automata/docs/article.html)
 
 ![CA Demo](screenshots/demo.gif)
 
@@ -40,6 +40,8 @@ cellular-automata-evolution/
 ├── style.css            # Styling for client-side UI
 └── README.md            # Project documentation
 ```
+
+[Repository](https://github.com/xcontcom/evolving-cellular-automata)
 
 ## Installation
 ### Prerequisites
